@@ -16,7 +16,7 @@ There is a humhub instance running on https://tuuwi-hub.de . Members get invited
 
 ## Big Blue Button
 
-There is a BBB instance running on https://bilontu.ackrep.de . Currently, anyone can register. We deployed this website using the official documentation at https://docs.bigbluebutton.org/2.2/install.html . As a frontend we use Greenlight https://docs.bigbluebutton.org/greenlight/gl-install.html . Keep in mind, Greenlight is running in two docker containers running with root priviledges. Keep in mind that BBB is not end to end encrypted, so please do not share sensitive information.
+There is a BBB instance running on https://bbb.tuuwi.de . Currently, anyone can register, but new accounts need to get confirmed by an admin. Just ask a member of the tuuwi for an account. We deployed this website using the official documentation at https://docs.bigbluebutton.org/2.2/install.html . As a frontend we use Greenlight https://docs.bigbluebutton.org/greenlight/gl-install.html . Keep in mind, Greenlight is running in two docker containers running with root priviledges. Keep in mind that BBB is not end to end encrypted, so please do not share sensitive information.
 
 ## Jitsi-Meet
 
